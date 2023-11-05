@@ -9,8 +9,8 @@ Further you just should follow several steps.
 4. Run ``python bot.py`` for running your bot.
 5. Run ``/getID`` command in telegram chat.
 6. Copy received id and put it into ``admins`` value in ``bot.py``.
-7. Reboot your bot and use ``/connect`` command in telegram chat.
-</br>
+7. Reboot your bot and use ``/connect`` command in telegram chat.\
+
 Enjoy it! Now bot can get sent messages in telegram chat and send that in MC Chat!
 If you want to remove bot from server just use ``/quit`` command in telegram chat.
 # Features 
