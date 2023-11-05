@@ -1,5 +1,5 @@
 # MCChat-PY
-The bot for synchronization minecraft chat with telegram one. I used (MineFlayer)(https://github.com/PrismarineJS/mineflayer/tree/master)  and (pyTelegramBotApi)(https://pypi.org/project/pyTelegramBotAPI/) libraries in this project.
+The bot for synchronization minecraft chat with telegram one. I used [MineFlayer](https://github.com/PrismarineJS/mineflayer/tree/master) and [pyTelegramBotApi](https://pypi.org/project/pyTelegramBotAPI/) libraries in this project.
 # How to use
 First of all you should create your telegram bot via BotFather (@BotFather) and get token. After you need to find out about address and port of your own or friend's minecraft server.
 Further you just should follow several steps.
