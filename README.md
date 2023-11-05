@@ -19,5 +19,5 @@ If you want to remove bot from server just use ``/quit`` command in telegram cha
 # ToDO
 Sending messages from MC Chat to Telegram one.
 # Screenshots
-<img src='https://github.com/jezmunh/MCChat-PY/blob/main/screenshots/screen0.png?raw=true'>
-<img src='https://github.com/jezmunh/MCChat-PY/blob/main/screenshots/screen1.jfif?raw=true'>
+<img src='https://github.com/jezmunh/MCChat-PY/blob/main/screenshots/screen0.png?raw=true'><img src='https://github.com/jezmunh/MCChat-PY/blob/main/screenshots/screen1.jfif?raw=true'>
+
