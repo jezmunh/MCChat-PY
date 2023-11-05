@@ -2,7 +2,7 @@
 The bot for synchronization minecraft chat with telegram one.
 # How to use
 First of all you should create your telegram bot via BotFather and get token. After you need to find out about address and port of your own or friend's minecraft server.
-Further you just should follow a few steps.
+Further you just should follow several steps.
 1. Add your bot to your telegram chat
 2. Run ``pip install -r requirements.txt`` in terminal.
 3. Open ``.env`` file and insert previously received Telegram Bot token, address of MC Server and Port respectively.
